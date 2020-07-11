@@ -1,4 +1,11 @@
-### Hi there 👋
+
+```bash
+$ describe prayagupd
+prayagupd is a software engineer.
+
+$ askme
+microservice architecture, database design, programming (java), himalayas
+```
 
 <!--
 **prayagupd/prayagupd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
