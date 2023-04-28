@@ -1,14 +1,15 @@
 
-```bash
-$ describe prayagupd
-prayagupd is a software engineer.
+Hi, I am Prayag! 
 
-$ askme
-microservice architecture, database design, programming (java), himalayas
-```
+I work a Senior Software Engineer.
+
+I have interest in **Microservice architecture**, Database design, Programming (java), 
+High availability and scaling, Discipline and Human behaviour
+
+Reach out to me [@linkedin](https://www.linkedin.com/in/prayagupd)
 
 <!--
-**prayagupd/prayagupd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prayagupa/prayagupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
