@@ -1,7 +1,7 @@
 
 Hi, I am Prayag! 
 
-I work a Senior Software Engineer.
+I work as a Staff Software Engineer.
 
 I have interest in **Microservice architecture**, Database design, Programming (java), 
 High availability and scaling, Discipline and Human behaviour
