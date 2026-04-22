@@ -1,24 +1,36 @@
 
-Hi, I am Prayag! 
+# Prayag — Staff Engineer
 
-I work as a Staff Software Engineer.
+> Building intelligent, scalable systems at the intersection of **software engineering** and **machine learning**.
 
-I have interest in **Microservice architecture**, Database design, Programming (java), 
-High availability and scaling, Discipline and Human behaviour
+---
 
-Reach out to me [@linkedin](https://www.linkedin.com/in/prayagupd)
+## About
 
-<!--
-**prayagupa/prayagupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Software Engineer with deep expertise in distributed systems, now focused on **AIML engineering**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Strengths
+
+| Domain | Skills |
+|---|---|
+| **Backend** | Java, Microservices, REST/gRPC APIs |
+| **Data** | Database design, stream processing, high-throughput data systems |
+| **Systems** | High availability, horizontal scaling, fault tolerance |
+| **AIML** | ML pipelines, model serving, LLM integration, feature engineering |
+
+---
+
+## What I Bring
+
+- **Engineering depth** — strong fundamentals in distributed systems & data architecture
+- **Production mindset** — designing ML systems that are reliable, observable, and scalable
+- **Curiosity-driven** — passionate about human behaviour, decision-making, and intelligent systems
+
+---
+
+##Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prayagupadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/prayagupadhyay/)
+
