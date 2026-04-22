@@ -30,7 +30,7 @@ Staff Software Engineer with deep expertise in distributed systems, now focused 
 
 ---
 
-##Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prayagupadhyay-blue?logo=linkedin)](https://www.linkedin.com/in/prayagupadhyay/)
 
