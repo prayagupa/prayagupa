@@ -3,11 +3,15 @@
 
 > Building intelligent, scalable systems at the intersection of **software engineering** and **machine learning**.
 
+<p align="center">
+  <img src="./Upadhyay.png" alt="Prayag at work — engineering, learning, and building with family" width="100%" />
+</p>
+
 ---
 
 ## About
 
-Staff Software Engineer with deep expertise in distributed systems, now focused on **AIML engineering**.
+Staff Software Engineer with deep expertise in distributed systems, focused on **AIML engineering**.
 
 ---
 
@@ -15,10 +19,10 @@ Staff Software Engineer with deep expertise in distributed systems, now focused 
 
 | Domain | Skills |
 |---|---|
+| **AIML** | ML pipelines, model serving, LLM integration, feature engineering |
 | **Backend** | Java, Microservices, REST/gRPC APIs |
 | **Data** | Database design, stream processing, high-throughput data systems |
 | **Systems** | High availability, horizontal scaling, fault tolerance |
-| **AIML** | ML pipelines, model serving, LLM integration, feature engineering |
 
 ---
 
